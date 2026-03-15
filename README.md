@@ -2,6 +2,7 @@
 
 A minor project that fine-tunes **Meta's Llama 3.2 (3B)** into a **reasoning model** using **QLoRA** via [Unsloth](https://github.com/unslothai/unsloth), trained on the **ServiceNow R1-Distill-SFT** dataset. The resulting model mimics human-like, stream-of-consciousness reasoning — exploring, self-doubting, and iteratively refining its answers before arriving at a final response.
 
+**If the notebook preview does not render on GitHub, please download and open the .ipynb file locally or in Google Colab.**
 ---
 
 ## 📌 Project Overview
